@@ -1,0 +1,38 @@
+/* .place__title{
+  grid-area: title;
+  font-family: 'inter', Arial,sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
+  margin: 0;
+  max-width: 100%;
+  width: 100%;
+
+}
+@media screen and (max-width:990px){
+  .place__title{
+    font-size: 42px;
+    line-height: 110%;
+  }
+}
+@media screen and (max-width:600px){
+  .place__title{
+    font-size: 32px;
+    line-height: 109%;
+    padding: 0 0 0 16px;
+    width: auto;
+  }
+} */
+
+.place__title {
+  grid-area: title;
+  font-family: 'inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
+  margin: 0;
+  max-width: 100%;
+  width: 100%;
+}
