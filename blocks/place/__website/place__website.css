@@ -1,15 +1,8 @@
-/* .place__website{
-  grid-area: links;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  max-width: 456px;
-}
-@media screen and (max-width:600px){
-  .place__website{
+@media screen and (max-width: 600px) {
+  .place__website {
     display: none;
   }
-} */
+}
 
 .place__website {
   grid-area: links;
